@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>  my php page </h>
+<h1>  my php page New page </h>
 
 <?php
 echo  "heloo EB";
